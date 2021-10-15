@@ -5,7 +5,7 @@
 To run the project, run the **PocwebpApplication** file found in the path below:
 ***./src/main/java.com.webpconverter.POCWEBP***
 
-## Converter sua Imagem
+## Convert your Image
 
 Inside the **Converter** folder we have the WebpConverter file, in it there is a variable called **IMAGE_URL** which contains the URL of the image to be converted, you can change this URL to any other URL of an IMAGE
 
